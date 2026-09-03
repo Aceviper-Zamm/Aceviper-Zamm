@@ -14,13 +14,6 @@
   <code>SYSTEM-ARCHITECTURE</code> &nbsp;•&nbsp; <code>UI/UX-PRECISION</code> &nbsp;•&nbsp; <code>CLEAN-CODE</code>
 </p>
 
-<!-- GitHub Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aceviper-Zamm/Aceviper-Zamm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aceviper-Zamm/Aceviper-Zamm/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aceviper-Zamm/Aceviper-Zamm/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
 ---
 
 </div>
@@ -76,7 +69,7 @@ developer:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> |
+| **Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> |
 | **Web & Mobile** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> |
 
 </div>
@@ -90,17 +83,7 @@ developer:
 <div align="center">
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aceviper-Zamm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Azzam's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceviper-Zamm&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aceviper-Zamm&theme=dark&hide_border=true&background=0D1117&sideLabels=8B949E&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-<!-- Trophy Showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aceviper-Zamm&theme=flat&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 </p>
 
 </div>
